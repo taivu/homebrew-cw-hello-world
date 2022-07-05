@@ -4,8 +4,8 @@
 class CwHelloWorld < Formula
   desc "proof of concept brew experiment"
   homepage "https://github.com/taivu/cw-hello-world"
-  url "https://github.com/taivu/cw-hello-world/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b13585af3a9c972e3844de6d02d8cb9831d7fbc0dc35094ad383cf48e270ebc7"
+  url "https://github.com/taivu/cw-hello-world/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d9abf750bf0990d6785343a8ebdcd700f97ff4edfd59a8076209c944fb787322"
   license "MIT"
 
   # depends_on "cmake" => :build
